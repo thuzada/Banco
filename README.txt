@@ -1,6 +1,6 @@
 # Banco
 
-<<<<<<< HEAD
+
 Este é um projeto de um sistema bancário simples em C. O sistema permite a criação de contas, realização de operações bancárias como depósitos, saques e transferências, e a geração de relatórios. O projeto utiliza a biblioteca SQLite para integração com um banco de dados, onde são armazenadas as informações das contas e transações.
 =======
 Este é um projeto de um sistema bancário simples em C. O sistema permite a criação de contas, realização de operações bancárias como depósitos, saques e transferências, e a geração de relatórios. O projeto utiliza a biblioteca SQLite para integração com um banco de dados, onde são armazenadas as informações das contas e transações. Com a utilização do sistema pelos usuários, o banco de dados será atualizado conforme as operações são realizadas.
@@ -16,7 +16,6 @@ Este é um projeto de um sistema bancário simples em C. O sistema permite a cri
 - **Geração de Relatórios**: Permite gerar relatórios simples e detalhados das contas e transações.
 - **Configuração**: Permite carregar e salvar configurações do sistema.
 - **Senha do menu do Funcionário**: 0000.
->>>>>>> 6bc2af0e3712b36d0cf4b96ac28e70c4882312ee
 
 ## Pré-requisitos
 
