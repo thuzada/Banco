@@ -1,0 +1,5 @@
+{
+    "limite_saque": 1000.0,
+    "taxa": 0.02,
+    "arquivo_dados": "banco.db"
+}
