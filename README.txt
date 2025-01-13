@@ -1,33 +1,39 @@
 # Banco
 
-
-Este é um projeto de um sistema bancário simples em C. O sistema permite a criação de contas, realização de operações bancárias como depósitos, saques e transferências, e a geração de relatórios. O projeto utiliza a biblioteca SQLite para integração com um banco de dados, onde são armazenadas as informações das contas e transações.
-=======
-Este é um projeto de um sistema bancário simples em C. O sistema permite a criação de contas, realização de operações bancárias como depósitos, saques e transferências, e a geração de relatórios. O projeto utiliza a biblioteca SQLite para integração com um banco de dados, onde são armazenadas as informações das contas e transações. Com a utilização do sistema pelos usuários, o banco de dados será atualizado conforme as operações são realizadas.
+Este é um projeto de um sistema bancário simples em C. O sistema permite a criação de contas, realização de operações bancárias como depósitos, saques e transferências, e a geração de relatórios. O projeto utiliza a biblioteca SQLite para integrar um banco de dados, onde são armazenadas as informações das contas e transações. À medida que os usuários utilizam o sistema, o banco de dados é atualizado em tempo real.
 
 ## Funcionalidades
 
-- **Criação de Contas**: Permite a criação de novas contas bancárias.
-- **Depósitos**: Permite realizar depósitos em contas existentes.
-- **Saques**: Permite realizar saques de contas existentes.
-- **Transferências**: Permite transferir dinheiro entre contas.
-- **Exibição de Saldo**: Permite visualizar o saldo atual de uma conta.
-- **Exibição de Extrato**: Permite visualizar o extrato de transações de uma conta.
-- **Geração de Relatórios**: Permite gerar relatórios simples e detalhados das contas e transações.
+- **Criação de Contas**: Criação de novas contas bancárias.
+- **Depósitos**: Realização de depósitos em contas existentes.
+- **Saques**: Permite saques de contas cadastradas.
+- **Transferências**: Transferências entre contas do sistema.
+- **Exibição de Saldo**: Consulta do saldo atual de uma conta.
+- **Exibição de Extrato**: Visualização do histórico de transações de uma conta.
+- **Geração de Relatórios**: Geração de relatórios simples e detalhados das contas e transações.
 - **Configuração**: Permite carregar e salvar configurações do sistema.
-- **Senha do menu do Funcionário**: 0000.
+- **Senha do Menu do Funcionário**: `0000`.
 
 ## Pré-requisitos
 
-Nenhum pré-requisito necessário. Basta baixar o executável e rodar.
+Nenhum pré-requisito é necessário. Basta baixar o executável e rodar o programa no seu sistema.
 
-## Instalação 
-Baixe o arquivo Banco.exe localizado no diretorio abaixo
-Banco/src/output/Banco.exe
-### Windows
+## Instalação
 
-
-1. Baixe o repositório:
+1. Clone o repositório:
    ```sh
    git clone https://github.com/thuzada/Banco.git
    cd Banco
+Acesse o diretório do executável:
+
+bash
+Copiar código
+Banco/src/output/
+Execute o arquivo Banco.exe.
+
+Como usar
+Após executar o programa, siga as instruções exibidas no menu principal.
+Para acessar o menu do funcionário, utilize a senha padrão: 0000.
+Tecnologias Utilizadas
+Linguagem C
+Biblioteca SQLite
