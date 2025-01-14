@@ -33,7 +33,7 @@ Execute o arquivo Banco.exe.
 
 ## Como usar
 Após executar o programa, siga as instruções exibidas no menu principal.
--Para acessar o menu do funcionário, utilize a senha padrão: 0000.
+** Para acessar o menu do funcionário, utilize a senha padrão: 0000.
 
 ## Tecnologias Utilizadas
 -Linguagem C
