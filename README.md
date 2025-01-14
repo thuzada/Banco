@@ -16,7 +16,7 @@ Este é um projeto de um sistema bancário simples em C. O sistema permite a cri
 
 ## Pré-requisitos
 
-Nenhum pré-requisito é necessário. Basta baixar o executável e rodar o programa no seu sistema.
+Ter o SQLite baixado nas variáveis de ambiente do seu computador
 
 ## Instalação
 
